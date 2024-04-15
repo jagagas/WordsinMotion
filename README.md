@@ -3,39 +3,34 @@ by Jenny Agagas
 
 # project overview 
 
-I created a website that exclusively relies on text and color for interactivity. My objective was to represent the concept of community through these two limited elements. 
+My project is based on the song "Who Run the World (Girls)" by Beyoncé. The message of this song is to empower women and affirm that women are strong and powerful. It is an anthem for girls all around the world. When this song came out when I was a kid, I thought it was so exciting in how it celebrated women.
 
-I chose the poem ‘I Hear America Singing’ by Walt Whitman because it celebrates diversity within America. I think there are many problems with Americans, but I think the biggest community I am a part of is my nationality, American. The poem includes a diverse amount of people, from jobs to gender, and it celebrates the unity of them all as Americans. They all sing with pride and enthusiasm together, which is what I imagine a happy community looks like. 
+For my website, I chose to focus on the lyrics from the pre-chorus leading up to the chorus. The tempo in the pre-chorus slowly builds up to the electric chant in the chorus, "Who run the world? Girls." There is so much imagery and hope in the lyrics leading into the chorus; I wanted to experiment with those elements and their tempo. I wanted "persuasion" to feel slow and enticing, "nation" to grow, and "Girls" to jump off the screen.
 
-When I read the poem, I get a sense of happiness and hopefulness, which I feel is an important identity in all my communities. The poem also has a variety of descriptive words that seem fun to work within our project. Even in the title, the word singing can be personified in many ways, which intrigued me. The poem is also small in length, so I can spend time on the interactions rather than the amount of words I have to make interactions. 
-
+My project is a reflection of the feelings of empowerment and womanhood that this song delivers.
 
 # technical overview
 
-The project consists of twelve HTML pages and a single CSS page. A recurring design element on all HTML pages is the gradient text, 'singing,' which serves to unify the entire website.
+The project includes 11 HTML pages and a single CSS page. The first page starts off gently like the song. Animations I used were type and grow timed to where the animations happen one after the other.
 
-The first HTML page features a neon light text with the word 'hear' gradually increasing in size. This effect is intended to draw the user's attention to the word 'hear' and its significance. I created the neon animation with keyframes that had text shadows. The increased size animation had a scale transformation. 
+Page 2 includes the words "power" and "love," two very dominant words. I chose to make power grow and love to rotate around to highlight their importance.
 
-The HTML page, with many others, had a cursor animation with the neon light text. I used keyframe animations that had two names: cursor and typing. The text has a hidden overflow and a no wrap on the white space to keep the line of text in a single line. 
+Page 3 is the last line before the chorus, "we can devour." I chose to slowly position these words one by one onto the center of the screen leading into the chorus.
 
-The third HTML page had a slide-down animation with keyframes. The transform and translate CSS code were used. 
+"Who run the world?" is positioned large in the center with a light shadow illuminating behind it. The song is made up of half of these lines and I designed it with the intention to make it bold and catchy. Then "Girls" appears in bold pink and grows in size to mimic a shout.
 
-The fifth HTML page has a boat-rocking animation that uses keyframes and transforms the translated code. 
+The rest of the project goes back and forth from "Who run the world?" and "Girls."
 
-On the seventh HTML page, we've introduced a background color change and text color alteration to represent the transition from morning to afternoon, as reflected in the poetry line.
+Page 10 is the credits title and restart button to play again.
 
-On the ninth HTML page, I have a keyframe increase size animation that infinitely increases the size of the text with a transform scale CSS code. 
-
-The eleventh HTML page has all the text with the neon text animation and a 'read again' button with a Hoover effect, where it changes the background color to yellow while changing the text to white. 
+My color palette consists of pink, red, and yellow. I chose these colors because they are bold and bright. Red is a powerful color and I wanted to complement that with hot pink and yellow.
 
 # acknowledgment 
 
-I referenced a lot of TikTok pages on multiple animations.
+During this project, I referenced W3School for CSS transitions and animations. The "try it yourself" feature on their website helped a lot to visualize how the code would work in my project.
 
-I used 'Only Code Channel'  on TikTok for the neon light animation. 
+Additionally, I rewatched most of the zoom recordings, like the stars and bugs demo, to gain a better understanding of the elements. I also used the CSS cheat PDFs alongside my work.
 
-I also used YouTube as a resource. I used 'Clueless Expert' as a cursor reference. The video I referenced was titled 'Typewriter Animation in CSS.'
-
-I also referenced the class's transform lecture to do a lot of simple scaling and translating animations.
+I also found it really helpful to reference and learn from the past student examples such as Jose's and Zanett's project.
 
 
