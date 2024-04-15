@@ -37,6 +37,7 @@ a {
 
 /* transition */
 #type{
+  font-family: 'Segoe UI';
   font-size: 100px;
   overflow: hidden;
   color: #d80202;
@@ -50,6 +51,7 @@ a {
 /*animation*/
 
 #nation{
+  font-family: 'Segoe UI';
   font-size: 50px;
   opacity: 0;
   animation-name: grow, colorChange;
@@ -123,6 +125,7 @@ to {
 }
 
   #power {
+    font-family: 'Segoe UI';
     animation-name: grow;
     animation-duration: 4s;
     animation-timing-function: ease;
@@ -150,6 +153,7 @@ to {
   }
 
 #love {
+  font-family: 'Segoe UI';
     position: absolute;
     top: 70px;
     animation-name: spin, colorChange;
@@ -199,16 +203,18 @@ to {
   }
   
   #we {
+    font-family: 'Segoe UI';
     animation-name: we;
   }
   
   #can {
+    font-family: 'Segoe UI';
     animation-name: can;
     animation-delay: 1s; 
   }
   
   #devour {
-    animation-name: devour, colorChange;
+    animation-name: devour, colorChange, grow;
     animation-delay: 2s; 
   
   }
@@ -271,18 +277,15 @@ to {
 
 
   #girls {
+    font-family: system-ui;
     color: #cd51b2;
     animation-name: girlsExhale;
-    animation-duration: .5s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-direction: forwards;
     animation-iteration-count: 1;
     animation-timing-function: ease;
 
-}
-
-#girls:hover {
-    animation-play-state: running;
 }
 
 @keyframes girlsExhale {
@@ -303,6 +306,8 @@ to {
 }
 
 #restart {
+  font-size: 40px;
+  font-family: 'Segoe UI';
   text-align: center;
 }
 
